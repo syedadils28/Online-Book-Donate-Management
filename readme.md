@@ -59,11 +59,8 @@ Push and open a Pull Request
 
 ## ⚙️ Installation & Setup Instructions
 
+step-by-Step Project Setup Guide **[portpolio](Installation & Setup Instructions.pdf)**
 
-# Installation & Setup Instructions.pdf
-Checkout my **[portpolio](Installation & Setup Instructions.pdf)**
-
-- [Book Donation](https://reactjsmini.ccbp.tech/login): online book donate management project using HTML, CSS, JavaScript, PHP, and MySQL.
 
 # Clone this repository
 git clone https://github.com/syedadils28/Online-Book-Donate-Management.git
