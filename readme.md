@@ -40,8 +40,8 @@ The project aims to encourage sharing, reduce waste, and make education more acc
 **Frontend:** HTML, CSS, JavaScript <br>
 **Backend:**  PHP <br>
 **Database:** MySQL <br>
-**Hosting:** XAMPP, (Online hosting :Netlify)<br>
-
+**Hosting:** XAMPP <br>
+**Online hosting:** Netlify <br>
 ---
 ## 🤝 Contributing
 
