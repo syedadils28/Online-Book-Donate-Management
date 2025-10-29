@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Book Donate System : Home</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Slick slider -->
+    <link href="assets/css/slick.css" rel="stylesheet">
+    <!-- Theme color -->
+    <link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
+
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Fonts -->
+
+    <!-- Open Sans for body font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
+    <!-- Lato for Title -->
+  	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+ 
+ 
+	
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+   	
+  	<!-- Start Header -->
+	<header id="mu-header" class="" role="banner">
+		<div class="container">
+			<nav class="navbar navbar-default mu-navbar">
+			  	<div class="container-fluid">
+				    <!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				        <span class="sr-only">Toggle navigation</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				      </button>
+
+				      <!-- Text Logo -->
+				      <a class="navbar-brand" href="index.html"><i class="fa fa-book" aria-hidden="true"></i> Book Donate System</a>
+
+				      <!-- Image Logo -->
+				      <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png"></a> -->
+
+
+				    </div>
+
+				    <!-- Collect the nav links, forms, and other content for toggling -->
+				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				      	<ul class="nav navbar-nav mu-menu navbar-right">
+					        <li><a href="#">HOME</a></li>
+					        <li><a href="#mu-book-overview">OVERVIEW</a></li>
+				            <li><a href="#mu-pricing">Donated book</a></li>
+				            <li><a href="Donate/index.php">Donate Book</a></li>
+				      	</ul>
+				    </div><!-- /.navbar-collapse -->
+			  	</div><!-- /.container-fluid -->
+			</nav>
+		</div>
+	</header>
+	<!-- End Header -->
+
+	<!-- Start Featured Slider -->
+
+	<section id="mu-hero">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-6 col-sm-6 col-sm-push-6">
+					<div class="mu-hero-right">
+						<img src="R.jpeg" alt="Ebook img">
+					</div>
+				</div>
+
+				<div class="col-md-6 col-sm-6 col-sm-pull-6">
+					<div class="mu-hero-left">
+						<h1>Books Donate System aims to bridge this gap!  </h1>
+						<p>While millions of students in India cannot afford the books they wish to read, there are privileged people who have the same books lying on their shelves - books that they have already read.</p>
+						<span>*Avaliable in PDF, ePUB, Mobi & Kindle.</span>
+					</div>
+				</div>	
+
+			</div>
+		</div>
+	</section>
+	
+	<!-- Start Featured Slider -->
+	
+	<!-- Start main content -->
+		
+	<main role="main">
+
+	
+		<!-- Start Book Overview -->
+		<section id="mu-book-overview">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-book-overview-area">
+
+							<div class="mu-heading-area">
+								<h2 class="mu-heading-title">Book Overview</h2>
+								<span class="mu-header-dot"></span>
+								<p>Our 4 Step Operational Model </p>
+							</div>
+
+							<!-- Start Book Overview Content -->
+							<div class="mu-book-overview-content">
+								<div class="row">
+
+									<!-- Book Overview Single Content -->
+									<div class="col-md-3 col-sm-6">
+										<div class="mu-book-overview-single">
+											<span class="mu-book-overview-icon-box">
+												<i class="fa fa-area-chart" aria-hidden="true"></i>
+											</span>
+											<h4>Collection</h4>
+											<p>We collect used/new books from individuals, schools, corporates, etc who are willing to support the cause</p>
+										</div>
+									</div>
+									<!-- / Book Overview Single Content -->
+
+									<!-- About Us Single Content -->
+									<div class="col-md-3 col-sm-6">
+										<div class="mu-book-overview-single">
+											<span class="mu-book-overview-icon-box">
+												<i class="fa fa-cubes" aria-hidden="true"></i>
+											</span>
+											<h4>Categorization</h4>
+											<p>We recycle books that are in non-usable format and categorize the pending books - Genre, class & subject wise </p>
+										</div>
+									</div>
+									<!-- / Book Overview Single Content -->
+
+									<!-- About Us Single Content -->
+									<div class="col-md-3 col-sm-6">
+										<div class="mu-book-overview-single">
+											<span class="mu-book-overview-icon-box">
+												<i class="fa fa-modx" aria-hidden="true"></i>
+											</span>
+											<h4>Distribution</h4>
+											<p>We distribute books via book stalls at govt. schools. We also provide books to credible NGOs in education domain</p>
+										</div>
+									</div>
+									<!-- / Book Overview Single Content -->
+
+									<!-- About Us Single Content -->
+									<div class="col-md-3 col-sm-6">
+										<div class="mu-book-overview-single">
+											<span class="mu-book-overview-icon-box">
+												<i class="fa fa-files-o" aria-hidden="true"></i>
+											</span>
+											<h4>Feedback</h4>
+											<p>We collect book reviews written by kids highlighting what they learnt from the book they received </p>
+										</div>
+									</div>
+									<!-- / Book Overview Single Content -->
+
+								
+								</div>
+							</div>
+							<!-- End Book Overview Content -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Book Overview -->
+
+		
+
+		<!-- Start Video Review -->
+		
+		<!-- End Video Review -->
+
+		<!-- Start Author -->
+		
+		<!-- End Author -->
+
+		<!-- Start Pricing -->
+		<section id="mu-pricing">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-pricing-area">
+
+							<div class="mu-heading-area">
+								<h2 class="mu-heading-title">Our Donated book</h2>
+								<span class="mu-header-dot"></span>	</div>
+
+							<!-- Start Pricing Content -->
+							<div class="mu-pricing-content">
+								<div class="row">
+<?php 
+
+include('donate/includes/config.php');
+
+$sql = "SELECT tblbooks.BookName,tblcategory.CategoryName,tblauthors.AuthorName,tblbooks.ISBNNumber,tblbooks.BookPrice,tblbooks.id as bookid,tblbooks.loc as book ,tblbooks.donoarid from  tblbooks join tblcategory on tblcategory.id=tblbooks.CatId join tblauthors on tblauthors.id=tblbooks.AuthorId";
+$query = $dbh -> prepare($sql);
+$query->execute();
+$results=$query->fetchAll(PDO::FETCH_OBJ);
+$cnt=1;
+if($query->rowCount() > 0)
+{
+foreach($results as $result)
+{               ?>
+									<!-- Pricing Single Content -->
+									<div class="col-sm-3 col-md-3">
+										<div class="mu-pricing-single">
+											<img src="donate/<?php echo htmlentities($result->book);?>" />
+											
+										</div>
+									</div>
+									<!-- / Pricing Single Content -->
+                                      
+ <?php $cnt=$cnt+1;}} ?>   									<!-- Pricing Single Content -->
+								
+
+								</div>
+							</div>
+							<!-- End Pricing Content -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Pricing -->
+
+		<!-- Start Testimonials -->
+		
+		<!-- End Testimonials -->
+
+	
+		<!-- Start Contact -->
+		
+		<!-- End Contact -->
+
+		<!-- Start Google Map -->
+		<section id="mu-google-map">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d589888.4396405783!2d-82.41588603632052!3d32.866951223053896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9f727a4ed30eb%3A0xf2139b0c5c7ae1ec!2sDooley+Branch+Rd%2C+Millen%2C+GA+30442%2C+USA!5e0!3m2!1sen!2sbd!4v1497376364225" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</section>
+		<!-- End Google Map -->
+
+	</main>
+	
+	<!-- End main content -->	
+			
+			
+	<!-- Start footer -->
+	<footer id="mu-footer" role="contentinfo">
+		<div class="container">
+			<div class="mu-footer-area">
+				<div class="mu-social-media">
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-google-plus"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+				</div>
+				<p class="mu-copyright">&copy; Copyright  All right reserved.</p>
+			</div>
+		</div>
+
+	</footer>
+	<!-- End footer -->
+
+	
+	
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+	<!-- Slick slider -->
+    <script type="text/javascript" src="assets/js/slick.min.js"></script>
+    <!-- Counter js -->
+    <script type="text/javascript" src="assets/js/counter.js"></script>
+    <!-- Ajax contact form  -->
+    <script type="text/javascript" src="assets/js/app.js"></script>
+   
+ 
+	
+    <!-- Custom js -->
+	<script type="text/javascript" src="assets/js/custom.js"></script>
+	
+    
+  </body>
+</html>
