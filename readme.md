@@ -10,7 +10,7 @@ Online Book Donate Management
 
  ** Online Book Reselling Management is a web-based platform(website) for buying, selling, and donating books.
   Resell and Donate online instead of going out to a book store and wasting time.<br>
-  <br>
+  
   ## Admin login: <br>
       Admin Username:admin <br>
       Password:Test@123 <br>
