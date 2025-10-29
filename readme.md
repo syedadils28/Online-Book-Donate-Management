@@ -34,13 +34,13 @@ The project aims to encourage sharing, reduce waste, and make education more acc
 
 ## 🧰 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript 
-**Backend:**  PHP 
-**Database:** MySQL 
-**Hosting:** XAMPP, (Online hosting :Netlify)
+**Frontend:** HTML, CSS, JavaScript <br>
+**Backend:**  PHP <br>
+**Database:** MySQL <br>
+**Hosting:** XAMPP, (Online hosting :Netlify)<br>
 
 ---
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! 🎉
 If you'd like to improve this project:
@@ -57,13 +57,5 @@ Push and open a Pull Request
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/online-book-donate-management.git
+git clone https://github.com/syedadils28/Online-Book-Donate-Management.git
 
-# Navigate into the project directory
-cd online-book-donate-management
-
-# Install dependencies (for Node.js projects)
-npm install
-
-# Run the application
-npm start
