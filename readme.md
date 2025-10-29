@@ -57,7 +57,7 @@ Commit your changes
 
 Push and open a Pull Request
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup Instructions
 
 ```bash
 # Clone this repository
