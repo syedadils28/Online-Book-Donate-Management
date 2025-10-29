@@ -12,8 +12,8 @@ Online Book Donate Management
   Resell and Donate online instead of going out to a book store and wasting time.<br>
   
   ## Admin login: <br>
-      Admin Username:admin <br>
-      Password:Test@123 <br>
+      Admin Username:admin
+      Password:Test@123 
   
 It allows users to:
 - Donate unused books to others who need them.
