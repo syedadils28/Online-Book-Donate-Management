@@ -59,9 +59,8 @@ Push and open a Pull Request
 
 ## ⚙️ Installation & Setup Instructions
 
-step-by-Step Project Setup Guide **[portpolio](Installation & Setup Instructions.pdf)**
+- 📝step-by-Step Project Setup Guide **[Installation & Setup Instructions](https://github.com/syedadils28/Online-Book-Donate-Management/blob/main/Installation%20%26%20Setup%20Instructions.pdf)**
 
+- 📝Clone this repository **[git clone](https://github.com/syedadils28/Online-Book-Donate-Management.git)**
 
-# Clone this repository
-git clone https://github.com/syedadils28/Online-Book-Donate-Management.git
 
